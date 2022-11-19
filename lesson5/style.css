@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vh;
+}
+
+
+/*.wrapper > div {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    */
+/*}*/
+#som {
+    padding: 10px 20px;
+}
+#usd {
+    margin-top: 20px;
+    padding: 10px 20px;
+}
+
+
+
