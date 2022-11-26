@@ -1,0 +1,13 @@
+.wrapperUser {
+  display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+.card {
+  border: 1px solid red;
+    width: 500px;
+    height: 150px;
+
+}
